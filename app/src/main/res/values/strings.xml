@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LavApp</string>
+
+    <string-array name="tipos_vehiculos">
+        <item>MOTO</item>
+        <item>AUTOMOVIL</item>
+        <item>CAMIONETA</item>
+        <item>MOTOCARRO</item>
+    </string-array>
+
+</resources>

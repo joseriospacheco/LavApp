@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822664612537",
+    "firebase_url": "https://prueba-48994-default-rtdb.firebaseio.com",
+    "project_id": "prueba-48994",
+    "storage_bucket": "prueba-48994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822664612537:android:bbe53fc40ff47840ee6968",
+        "android_client_info": {
+          "package_name": "com.lavapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822664612537-ggklpr3eu8f5e9roicevp7clg7oh5r1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcO8PqkMKgsCWrBiygsvL66kXLq_comc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822664612537-ggklpr3eu8f5e9roicevp7clg7oh5r1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
